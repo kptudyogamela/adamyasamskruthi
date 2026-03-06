@@ -1,5 +1,3 @@
-import React from "react";
-import { FaHandsHelping } from "react-icons/fa";
 import { MdGroups } from "react-icons/md";
 
 const HeroSections = () => {

@@ -139,12 +139,14 @@ const Footer = () => {
             © {new Date().getFullYear()} Adamya Samskruthi — All Rights Reserved
           </p>
 
-          <p className="text-gray-500 text-sm text-center sm:text-left">
-            Maintained by —{" "}
-            <span className="text-gray-600 ml-1 hover:text-red-600 cursor-pointer">
-              Swasyaha Solutions
-            </span>
-          </p>
+          <a href="https://swasyaha.in" target="_blank">
+            <p className="text-gray-500 text-sm text-center sm:text-left  hover:text-red-600 ">
+              Developed & Maintained by —{" "}
+              <span className="text-red-300  hover:text-red-600 ml-1cursor-pointer">
+                Swasyaha Solutions
+              </span>
+            </p>
+          </a>
 
           <div className="flex justify-center sm:justify-end space-x-4 mt-2 sm:mt-0">
             <a

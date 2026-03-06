@@ -237,6 +237,10 @@ export default function EventDetailsPage() {
     );
   }
 
+  // const images = useMemo(() => {
+  //   return event?.images || [];
+  // }, [event]);
+
   return (
     // <div className="flex flex-col items-center py-10 px-4">
     //   <h2 className="text-3xl font-bold text-center mb-6 text-gray-800">

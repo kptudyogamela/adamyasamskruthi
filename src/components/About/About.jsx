@@ -4,7 +4,6 @@ import OurStory from "./OurStory";
 import CoreBeliefs from "./CoreBeliefs";
 import OurTeam from "./OurTeam";
 import Accomplishments from "./Accomplishments";
-import Volunteers from "./Volunteers";
 import CallToAction from "./CallToAction";
 
 const About = () => {
